@@ -8,3 +8,4 @@ How to use:
 
 1. Input the folder directory for your existing mp4s file in mp4_folder_location. (example: "G:\mp4")
 2. Input the folder directory for where the mp3 file will be converted and stored into at variable mp3_folder_location. (example : "G:\mp3_converted")
+3. run
