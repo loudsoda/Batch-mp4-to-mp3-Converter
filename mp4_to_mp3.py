@@ -1,6 +1,6 @@
 """
 Batch mp4 to mp3 Converter
-Created by Caleb Ellis
+Created by Caleb E.
 date: Jan 2020
 
 """
